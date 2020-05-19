@@ -1,3 +1,5 @@
+你们要找的东西没在这……
+
 This is my build of HackRF for Windows.
 It was compiled under Cygwin.
 
